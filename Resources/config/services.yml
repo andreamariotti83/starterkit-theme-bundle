@@ -1,0 +1,4 @@
+services:
+#    starterkit_theme.example:
+#        class: Starterkit\StarterkitBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
