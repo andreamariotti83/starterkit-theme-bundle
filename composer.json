@@ -15,5 +15,6 @@
     "autoload": {
         "psr-0": { "Starterkit\\Bundle\\StarterkitThemeBundle\\": "" }
     },
-    "target-dir": "Starterkit/StarterkitBundle"
+    "target-dir": "Starterkit/StarterkitBundle",
+    "minimum-stability": "dev"
 }
