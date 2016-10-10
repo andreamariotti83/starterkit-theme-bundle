@@ -1,0 +1,18 @@
+{
+    "name": "starterkit/starterkit-theme-bundle",
+    "type": "symfony-bundle",
+    "description": "Starterkit base theme bundle for symfony",
+    "keywords": ["Symfony", "Starterkit", "Theme"],
+    "homepage": "https://github.com/andreamariotti83/starterkit-theme-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrea Mariotti",
+            "email": "andreamariotti1983@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Starterkit\\Bundle\\StarterkitThemeBundle\\": "" }
+    }
+}
