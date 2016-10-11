@@ -1,6 +1,6 @@
 <?php
 
-namespace Starterkit\StarterkitBundle\DependencyInjection;
+namespace Starterkit\ThemeBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

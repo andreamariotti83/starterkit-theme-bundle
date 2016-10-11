@@ -1,6 +1,6 @@
 <?php
 
-namespace Starterkit\StarterkitBundle\Tests\Controller;
+namespace Starterkit\ThemeBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

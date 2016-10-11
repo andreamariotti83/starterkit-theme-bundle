@@ -1,6 +1,6 @@
 <?php
 
-namespace Starterkit\StarterkitBundle\Controller;
+namespace Starterkit\ThemeBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
