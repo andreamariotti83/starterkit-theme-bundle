@@ -1,0 +1,26 @@
+<section id="content-outer-wrapper" class="outer-wrapper clearfix">
+    <div id="main-layout" class="main-layout inner-wrapper clearfix">
+
+            <div class="region--content region region-content">
+
+                {% include '@StarterkitTheme/layout/demo-region.html.twig' with {'region' : 'Content Region'} %}
+                {% block content %}{% endblock %}
+
+            </div>
+
+            <div class="region--sidebar-first region region-sidebar-first">
+
+                {% include '@StarterkitTheme/layout/demo-region.html.twig' with {'region' : 'Sidebar First Region'} %}
+                {% block sidebar_first %}{% endblock %}
+
+            </div>
+
+            <div class="region--sidebar-second region region-sidebar-second">
+
+                {% include '@StarterkitTheme/layout/demo-region.html.twig' with {'region' : 'Sidebar Second Region'} %}
+                {% block sidebar_second %}{% endblock %}
+
+            </div>
+
+    </div>
+</section>
