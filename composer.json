@@ -1,5 +1,5 @@
 {
-    "name": "starterkit/starterkit-theme-bundle",
+    "name": "starterkit/theme-bundle",
     "type": "symfony-bundle",
     "description": "Starterkit base theme bundle for symfony",
     "keywords": ["Symfony", "Starterkit", "Theme"],
@@ -13,7 +13,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Starterkit\\Bundle\\StarterkitThemeBundle\\": "" }
+        "psr-0": { "Starterkit\\ThemeBundle\\": "" }
     },
-    "target-dir": "Starterkit/StarterkitBundle"
+    "target-dir": "Starterkit/ThemeBundle"
 }
