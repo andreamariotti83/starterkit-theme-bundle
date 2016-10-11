@@ -1,5 +1,5 @@
 {
-    "name": "starterkit/theme-bundle",
+    "name": "starterkit/starterkit-theme-bundle",
     "type": "symfony-bundle",
     "description": "Starterkit base theme bundle for symfony",
     "keywords": ["Symfony", "Starterkit", "Theme"],
