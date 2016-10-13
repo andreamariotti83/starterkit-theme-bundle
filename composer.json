@@ -12,6 +12,9 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "candygs/candy-grid-system": "2.x-dev"
+    },
     "autoload": {
         "psr-0": { "Starterkit\\ThemeBundle\\": "" }
     },
